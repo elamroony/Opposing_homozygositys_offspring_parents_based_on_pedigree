@@ -1,0 +1,1 @@
+# Opposing_homozygositys_offspring_parents_based_on_pedigree
