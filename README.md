@@ -4,7 +4,7 @@ Parentage analysis (calculating the opposing homozygosity) between individuals a
 
 OHfinder_ped is a FORTRAN code that can be downloaded along with a toy example. The full example can be found in the parameter file.
 
-8                            Number of ind           
+8                   !Number of ind           
 10                         ! Number of SNP       
 ped.txt                    ! Name of ped file         
 eno.txt                    ! Name of geno file      
