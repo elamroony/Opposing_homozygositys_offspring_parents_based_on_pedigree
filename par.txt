@@ -1,0 +1,23 @@
+8                         ! Number of ind
+10                        ! Number of SNP
+ped.txt                   ! Name of ped file
+geno.txt                  ! Name of geno file
+out.txt                   ! Name of output file
+! -----------------------------------------------!
+! Finds the % of opposing homozygositys for individuals
+! with each parent in the pedigree
+! -----------------------------------------------!
+! Ped file starts from 1 to n; where n is the total
+! number of animals 
+! The output file contains 9 columns:            !
+! -----------------------------------------------!
+! 1. Individual ID                               !
+! 2. Parent ID                                   !
+! 3. Total number of SNPs                        !
+! 4. Number of informative SNPs                  !
+! 5. Number of SNPs with mismatch                !
+! 6. Number missing SNPs for individual          !
+! 7. Number missing SNPs for parent              !
+! 8. Number missing SNPs in both                 !
+! 9. % of SNPs with mismatch                     !
+! -----------------------------------------------!
