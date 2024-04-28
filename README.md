@@ -11,9 +11,8 @@ ped.txt                    ! Name of ped file
 eno.txt                    ! Name of geno file      
 out.txt                    ! Name of output file 
 
------------------------------------------------
-Genotypes file as above.
- Ped file starts from 1 to n; where n is the total  number of animals 
+-----------------------------------------------             
+Ped file starts from 1 to n; where n is the total  number of animals 
  The output file contains 9 columns:          
  1. Individual ID                               
  2. Parent ID                                   
